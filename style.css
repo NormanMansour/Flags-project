@@ -6,7 +6,6 @@
 
 body {
     background-color: #ededed;
-    /* لون الخلفية الرمادي الفاتح مثل الصورة */
     height: 100vh;
     display: flex;
     justify-content: center;
